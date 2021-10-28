@@ -1,0 +1,4 @@
+{
+    "environment": "dev",
+    "backendURL" : "https://localhost:8080/app-dev"
+}
